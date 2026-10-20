@@ -36,8 +36,8 @@ python compare.py
 `compare.py` compares 12 AI-tool keywords worldwide over 12 months, prints the self-check error and saves `comparison.png`.
 
 ## Cost
-Pay per result: **$4 per 1,000 keywords compared** ($0.004 each) plus Apify's $0.00005 start fee.
-Only keywords actually delivered are charged; failed or no-data keywords are free. This example (12 keywords) costs about **$0.05**.
+Pay per result: **$2 per 1,000 keywords compared** ($0.002 each) plus Apify's $0.00005 start fee.
+Only keywords actually delivered are charged; failed or no-data keywords are free. This example (12 keywords) costs about **$0.025**.
 
 ## Limitations
 - Google Trends data is sampled and can vary slightly between requests.
